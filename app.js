@@ -29,6 +29,17 @@ function adicionarAmigoLista () {
 }
 
 function sortearAmigo () {
-    let indiceAleatorio = Math.floor(Math.random() * amigos.length);
-    let 
+    let resultado = document.querySelector('#resultado');
+    resultado.innerHTML = '';
+    if (amigos == '') {
+        console.log('O array está vazio!');    
+    } else {
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
+        console.log(amigos[indiceAleatorio]);
+        let resultadoAmigo = document.createElement('li');
+        resultadoAmigo.innerHTML = amigos[indiceAleatorio];
+        resultado.appendChild(resultadoAmigo);
+    }
+
+    
 }
