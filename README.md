@@ -6,7 +6,7 @@ Neste curso, fui capaz de afiar o meu conhecimento nas tecnologias principais e 
 <p>Contudo, o próprio challenge já vem com o arquivo de CSS e o arquivo de HTML já prontos, a questão era implementar as funcionalidades que o projeto deveria ter, como:</p>
 
 
-##Funcionalidades
+## Funcionalidades
   
 1. Adicionar amigo à lista.
 2. Prever se a lista está vazia.
