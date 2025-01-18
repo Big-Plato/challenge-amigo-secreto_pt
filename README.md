@@ -6,10 +6,10 @@ Neste curso, fui capaz de afiar o meu conhecimento nas tecnologias principais e 
 <p>Contudo, o próprio challenge já vem com o arquivo de CSS e o arquivo de HTML já prontos, a questão era implementar as funcionalidades que o projeto deveria ter, como:</p>
 
 
-<ul>##Funcionalidades
+##Funcionalidades
   
-<li>Adicionar amigo à lista.</li>
-<li>Prever se a lista está vazia.</li>
-<li>Prever se o nome adicionado à lista está vazio.</li>
-<li>Sorter os amigos dentre os amigos adicionados.</li>
-</ul>
+1. Adicionar amigo à lista.
+2. Prever se a lista está vazia.
+3. Prever se o nome adicionado à lista está vazio.
+4. Sortear os amigos dentre os amigos adicionados.
+
